@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "8CGbpQT5R0aX+sT+/rSqI2wPcOtNahvFiYhNist2v/I=",
+  "Source": "CarListApp.Api",
+  "BasePath": "_content/CarListApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
