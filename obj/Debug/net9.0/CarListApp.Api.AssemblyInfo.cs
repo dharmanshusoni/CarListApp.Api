@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarListApp.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+656b3977e154ec8c27bad7e25ab9809bc28f6c30")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e8e29e11a5be8f50ca0d4d1428f16f4874fb9a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarListApp.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarListApp.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

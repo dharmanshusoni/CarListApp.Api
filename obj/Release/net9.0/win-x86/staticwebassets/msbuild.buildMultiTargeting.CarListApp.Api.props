@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\CarListApp.Api.props" />
-</Project>

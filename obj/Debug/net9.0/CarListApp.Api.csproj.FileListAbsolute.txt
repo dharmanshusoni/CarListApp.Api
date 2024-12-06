@@ -127,6 +127,7 @@ C:\Developer\CarListApp.Api\obj\Debug\net9.0\CarListApp.Api.AssemblyInfo.cs
 C:\Developer\CarListApp.Api\obj\Debug\net9.0\CarListApp.Api.csproj.CoreCompileInputs.cache
 C:\Developer\CarListApp.Api\obj\Debug\net9.0\CarListApp.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Developer\CarListApp.Api\obj\Debug\net9.0\CarListApp.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Developer\CarListApp.Api\obj\Debug\net9.0\CarListApp.Api.sourcelink.json
 C:\Developer\CarListApp.Api\obj\Debug\net9.0\scopedcss\bundle\CarListApp.Api.styles.css
 C:\Developer\CarListApp.Api\obj\Debug\net9.0\staticwebassets.build.json
 C:\Developer\CarListApp.Api\obj\Debug\net9.0\staticwebassets.development.json
@@ -143,3 +144,4 @@ C:\Developer\CarListApp.Api\obj\Debug\net9.0\refint\CarListApp.Api.dll
 C:\Developer\CarListApp.Api\obj\Debug\net9.0\CarListApp.Api.pdb
 C:\Developer\CarListApp.Api\obj\Debug\net9.0\CarListApp.Api.genruntimeconfig.cache
 C:\Developer\CarListApp.Api\obj\Debug\net9.0\ref\CarListApp.Api.dll
+C:\Developer\CarListApp.Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

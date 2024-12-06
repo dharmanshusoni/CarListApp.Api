@@ -127,6 +127,7 @@ C:\Developer\CarListApp.Api\obj\Release\net9.0\CarListApp.Api.AssemblyInfo.cs
 C:\Developer\CarListApp.Api\obj\Release\net9.0\CarListApp.Api.csproj.CoreCompileInputs.cache
 C:\Developer\CarListApp.Api\obj\Release\net9.0\CarListApp.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Developer\CarListApp.Api\obj\Release\net9.0\CarListApp.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Developer\CarListApp.Api\obj\Release\net9.0\CarListApp.Api.sourcelink.json
 C:\Developer\CarListApp.Api\obj\Release\net9.0\scopedcss\bundle\CarListApp.Api.styles.css
 C:\Developer\CarListApp.Api\obj\Release\net9.0\staticwebassets.build.json
 C:\Developer\CarListApp.Api\obj\Release\net9.0\staticwebassets.development.json
