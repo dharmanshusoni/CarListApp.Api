@@ -145,3 +145,12 @@ C:\Developer\CarListApp.Api\obj\Debug\net9.0\CarListApp.Api.pdb
 C:\Developer\CarListApp.Api\obj\Debug\net9.0\CarListApp.Api.genruntimeconfig.cache
 C:\Developer\CarListApp.Api\obj\Debug\net9.0\ref\CarListApp.Api.dll
 C:\Developer\CarListApp.Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Developer\CarListApp.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Developer\CarListApp.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Developer\CarListApp.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Developer\CarListApp.Api\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Developer\CarListApp.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Developer\CarListApp.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Developer\CarListApp.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Developer\CarListApp.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Developer\CarListApp.Api\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
